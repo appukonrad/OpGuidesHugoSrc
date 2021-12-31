@@ -596,7 +596,7 @@ then we're going to temporarily switch to the root account using `su` all you ha
 now run
 
 ```bash
-reflector -c us -n 25 -f 5 > /etc/pacmand.d/mirrorlist
+reflector -c us -n 25 -f 5 > /etc/pacman.d/mirrorlist
 ```
 
 Finally to install Plasma run
